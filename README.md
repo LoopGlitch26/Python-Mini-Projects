@@ -13,3 +13,9 @@ Mini projects to better understand the different packages available in the pytho
 
 ## [Calendar using tkinter](https://github.com/LoopGlitch26/Python-Mini-Projects/blob/master/Calendar%20using%20tkinter.ipynb)
 ![calendar](https://user-images.githubusercontent.com/53336715/81964260-f409c180-9633-11ea-9569-876faee3f9dd.jpg)
+
+
+
+## [Password Generator app](https://github.com/LoopGlitch26/Python-Mini-Projects/blob/master/Password%20Generator%20app.py)
+![image](https://user-images.githubusercontent.com/53336715/81969622-e1938600-963b-11ea-99fd-2b445d70f6df.png)
+
