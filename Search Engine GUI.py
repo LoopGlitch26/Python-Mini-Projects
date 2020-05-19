@@ -2,7 +2,7 @@ from tkinter import *
 import wikipedia
 
 
-def get_me():
+def get_data():
     entry_value = entry.get()
     answer.delete(1.0, END)
     try:
@@ -16,7 +16,7 @@ win.title("LoopGlitch Search Engine")
 topframe = Frame(win)
 entry = Entry(topframe)
 entry.pack()
-button = Button(topframe, text="search", command=get_me)
+button = Button(topframe, text="search", command=get_data)
 button.pack()
 topframe.pack(side = TOP)
 
