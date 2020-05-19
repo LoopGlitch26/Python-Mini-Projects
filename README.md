@@ -19,3 +19,8 @@ Mini projects to better understand the different packages available in the pytho
 ## [Password Generator app](https://github.com/LoopGlitch26/Python-Mini-Projects/blob/master/Password%20Generator%20app.py)
 ![image](https://user-images.githubusercontent.com/53336715/81969622-e1938600-963b-11ea-99fd-2b445d70f6df.png)
 
+
+## [Search Engine app](https://github.com/LoopGlitch26/Python-Mini-Projects/blob/master/Search%20Engine%20GUI.py)
+![image](https://user-images.githubusercontent.com/53336715/82284109-da5ed600-99b5-11ea-935f-d5423f2dcfb5.png)
+
+
