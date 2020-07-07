@@ -23,7 +23,7 @@ Mini projects to better understand the different packages available in the pytho
 ## [Search Engine app](https://github.com/LoopGlitch26/Python-Mini-Projects/blob/master/Search%20Engine%20GUI.py)
 ![image](https://user-images.githubusercontent.com/53336715/82284109-da5ed600-99b5-11ea-935f-d5423f2dcfb5.png)
 
-## 
+## [Paint app](https://github.com/LoopGlitch26/Python-Mini-Projects/blob/master/PaintTK.py)
 ![image](https://user-images.githubusercontent.com/53336715/86761033-5050f680-c063-11ea-9b93-97399ec7de4d.png)
 
 
