@@ -69,6 +69,6 @@ class Paint(object):
     def reset(self, event):
         self.old_x, self.old_y = None, None
 
-if __name__ == '__main__':
+if __name__ =='__main__':
         Paint()
 
